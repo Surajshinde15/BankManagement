@@ -40,7 +40,7 @@ public class connection1 {
 	private static String driver="oracle.jdbc.OracleDriver";
 	private static String url="jdbc:oracle:thin:@DESKTOP-IHHCNDI:1521:XE";
 	private static String userName="System";
-	private static String password="tejas18";
+	private static String password="root";
 	static {
 		 try {
 			Class.forName(driver);
