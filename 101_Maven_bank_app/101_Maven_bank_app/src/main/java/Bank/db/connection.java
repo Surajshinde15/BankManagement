@@ -12,7 +12,7 @@ import org.postgresql.ds.PGSimpleDataSource;
 //	private static String driver="oracle.jdbc.OracleDriver";
 //	private static String url="jdbc:oracle:thin:@localhost:1521:XE";
 //	private static String userName="System";
-//	private static String password="tejas18";
+//	private static String password="root";
 	
 //	for deployed database
 //	private static String driver="oracle.jdbc.OracleDriver";
